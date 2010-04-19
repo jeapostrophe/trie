@@ -1,0 +1,36 @@
+_trie_ : Finite Maps
+==========================================
+
+By Jay McCarthy <jay.mccarthy@gmail.com>
+
+Keywords: _datastructures_
+
+Introduction
+============
+
+Files
+====
+_fmap.ss_
+_int.ss_
+_list.ss_
+_proj.ss_
+_string.ss_
+_symbol.ss_
+
+_FILE.ss_
+---------------
+
+Require it like this:
+
+> (require (planet "FILE.ss" ("jaymccarthy" "trie.plt" 1)))
+
+It provides the follow identifiers:
+
+Example
+=======
+
+History
+======
+
+June 21st
+     * Initial
